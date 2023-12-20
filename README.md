@@ -8,7 +8,7 @@
 </div>
 
 <div>
-  <p><em>Backend Enginner @ <a href="https://www.linkedin.com/company/adjustcom/mycompany/">Adjust</a><img src="https://media.giphy.com/media/BNbm4jKFVC31dYUaoh/giphy.gif" width="30">
+  <p><em>Backend Enginner @ <a href="https://www.linkedin.com/company/piperai/mycompany/">Piper AI</a><img src="https://media.giphy.com/media/BNbm4jKFVC31dYUaoh/giphy.gif" width="30">
   </em></p>
 
   [![Linkedin: gilat-blumberger](https://img.shields.io/badge/Gilat-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gilat-blumberger/)](https://www.linkedin.com/in/gilat-blumberger/)
