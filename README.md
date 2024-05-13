@@ -27,11 +27,8 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 <p>
-  - 🌱 I’m currently playing around with Rust for fun
+  - 🌱 I’m currently geeking out on home automations with [Home Asistant](https://www.home-assistant.io/)
 </p>
-<p>
-  - 🛠 I'm actively working on <a href="https://github.com/gilatb/stampify-backend">this project</a>
-<p>
   - 👯 I’m looking to collaborate on open source projects in python
 </p>
 <p>
@@ -40,8 +37,8 @@
 
 ```python
 gilat = {
-  code: ["Python", "Javascript", "SQL"],
-  tools: ["FastAPI", "React", "Node", "Django", "Redis", "Postgres"],
+  code: ["Python", "Javascript", "PHP", "SQL"],
+  tools: ["FastAPI", "Postgres", "SQLAlchemy", "React", "Node", "Django", "Redis"],
   architecture: ["microservices", "event-driven"],
   favorite_books: ["Building Microservices", "Algorithms to Live By"],
 }
