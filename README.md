@@ -27,7 +27,7 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 <p>
-  - 🌱 I’m currently geeking out on home automations with [Home Asistant](https://www.home-assistant.io/)
+  - 🌱 I’m currently geeking out on home automations with <a href="https://www.home-assistant.io/">Home Asistant</a>
 </p>
   - 👯 I’m looking to collaborate on open source projects in python
 </p>
